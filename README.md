@@ -1,3 +1,6 @@
+Azmiu
+Programılasdirmanin
+Esaslari
 Cahandar
 Programlasdirma
 Azmiu
