@@ -1,2 +1,3 @@
-# git-practice-cahandar
-Chandar Proqramlasdirmanin esaslari
+Cahandar
+Programlasdirma
+Azmiu
