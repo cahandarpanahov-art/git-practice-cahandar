@@ -1,2 +1,2 @@
 # git-practice-cahandar
-Chandar Proqramlasdirmanin esaslari
+Cahandar Proqramlasdirmanin esaslari
